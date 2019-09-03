@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to my awesome slide!"
 ---
-The dad tomato said to the baby tomato: Ketchup!
+Insert cringe meme here
 Use the left arrow to go back!
